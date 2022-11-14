@@ -10,4 +10,3 @@ eksctl delete iamserviceaccount --name cluster-autoscaler --namespace kube-syste
 echo "Delete all kubernetes resources"
 kubectl delete all --all -n udacity
 echo "Delete all terraform managed resources"
-terraform destroy

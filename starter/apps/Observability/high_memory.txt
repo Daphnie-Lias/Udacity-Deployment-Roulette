@@ -1,0 +1,33 @@
+Command:  kubectl top pod --sort-by=memory -n udacity >> high_memory.txt
+
+NAME                                  CPU(cores)   MEMORY(bytes)
+hello-world-794458d64d-vxbnf          2m           19Mi            
+bloaty-mcbloatface-58c98b98d8-8ktq8   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-2kcx6   1m           3Mi             
+green-5cdd96c9b4-sh5tt                1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-hxm57   1m           3Mi             
+canary-v2-5dc9c56687-xqstf            0m           3Mi             
+bloaty-mcbloatface-58c98b98d8-95zck   1m           3Mi             
+green-5cdd96c9b4-d5mv8                1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-8n5c8   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-6ksgr   1m           3Mi             
+canary-v1-64598c676f-749sn            0m           3Mi             
+bloaty-mcbloatface-58c98b98d8-b8mrp   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-87cxl   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-mv69z   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-bd57n   1m           3Mi             
+blue-8475cbdf46-qhssg                 1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-fvdpk   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-snf9w   1m           3Mi             
+canary-v2-5dc9c56687-zhnxv            0m           3Mi             
+bloaty-mcbloatface-58c98b98d8-kr94q   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-2488r   1m           3Mi             
+blue-8475cbdf46-hcdvp                 1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-xnm97   1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-9cts4   1m           3Mi             
+canary-v1-64598c676f-znjq5            0m           3Mi             
+canary-v2-5dc9c56687-56gdn            0m           3Mi             
+blue-8475cbdf46-c2njj                 1m           3Mi             
+green-5cdd96c9b4-flzdl                1m           3Mi             
+bloaty-mcbloatface-58c98b98d8-sx9lc   1m           3Mi             
+canary-v1-64598c676f-tdstz            0m           3Mi             

@@ -1,0 +1,15 @@
+(base) daphnie@bb-system-1128 canary % kubectl get pods -n udacity                                           
+NAME                           READY   STATUS        RESTARTS   AGE
+blue-8475cbdf46-2t9s8          1/1     Running       0          105m
+blue-8475cbdf46-mqvqx          1/1     Running       0          105m
+blue-8475cbdf46-zv5cj          1/1     Running       0          105m
+canary-v1-64598c676f-5swf5     1/1     Running       0          70m
+canary-v1-64598c676f-kt284     1/1     Running       0          70m
+canary-v1-64598c676f-qrfkx     1/1     Running       0          105m
+canary-v2-5dc9c56687-7d24h     1/1     Running       0          3m42s
+canary-v2-5dc9c56687-f9l5m     1/1     Running       0          3m42s
+canary-v2-5dc9c56687-h6d66     1/1     Running       0          3m42s
+canary-v2-5dc9c56687-qhqqr     1/1     Running       0          3m42s
+canary-v2-5dc9c56687-zvpd6     1/1     Running       0          69m
+debug                          0/1     Terminating   0          2m58s
+hello-world-794458d64d-h58w5   1/1     Running       0          108m
