@@ -1,0 +1,39 @@
+Ready to receive requests on 9000
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.100.3.38:9000/ (Press CTRL+C to quit)
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:27] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:29] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:31] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:33] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:35] "GET /healthz HTTP/1.1" 200 -
+10.100.3.157 - - [16/Nov/2022 15:05:37] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:39] "GET /healthz HTTP/1.1" 200 -
+10.100.3.157 - - [16/Nov/2022 15:05:41] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:43] "GET /healthz HTTP/1.1" 200 -
+10.100.3.157 - - [16/Nov/2022 15:05:45] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:47] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:49] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:51] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:53] "GET /healthz HTTP/1.1" 200 -
+Healthy!
+10.100.3.157 - - [16/Nov/2022 15:05:55] "GET /healthz HTTP/1.1" 200 -
